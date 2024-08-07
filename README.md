@@ -25,6 +25,6 @@ You can access the resources hosted in this repository via the [jsDelivr CDN](ht
 
 ***Example: [https://cdn.jsdelivr.net/gh/itzashoffcl/lofi-resources/thumbnails/cozy-studio.png](https://cdn.jsdelivr.net/gh/itsashoffcl/lofi-resources/thumbnails/cozy-studio.png)***
 
-If you found this repo useful, be sure to <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="24" height="24"> it!
+If you found this repo useful, be sure to ⭐ it!
 
 <p align="center">Made with ❤ - Ash</p>
